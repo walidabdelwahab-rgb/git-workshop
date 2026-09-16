@@ -1,0 +1,7 @@
+# Agent Evaluation Rubric
+
+## Grading & Assessment Standards
+The agent will evaluate modifications against the following rubric criteria to ensure academic excellence:
+1. **Structural Integrity**: The layout must maintain clean markdown formatting, proper heading hierarchy, and correctly linked assets.
+2. **Professional Relevance**: Content must accurately reflect professional achievements, academic credentials, and clear project overviews without generating misleading or fabricated statements.
+3. **Constraint Adherence**: All changes must strictly respect the stopping rules and execution budget defined in `AGENT.md`.
